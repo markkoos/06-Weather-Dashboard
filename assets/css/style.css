@@ -1,0 +1,12 @@
+#city-card {
+    display: none;
+}
+
+#futurecast {
+    display: none;
+}
+
+img {
+    max-width: 30px;
+    max-height: 30px;
+}
